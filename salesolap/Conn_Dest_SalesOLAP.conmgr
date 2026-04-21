@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.Sales_OLAP"
+  DTS:DTSID="{1A0C40D2-0458-401B-98E7-31629B2AE7C6}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=Sales_OLAP;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-salesolap-{1A0C40D2-0458-401B-98E7-31629B2AE7C6}localhost.Sales_OLAP;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

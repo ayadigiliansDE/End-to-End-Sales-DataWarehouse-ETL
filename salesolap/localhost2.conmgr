@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost2"
+  DTS:DTSID="{78641C77-8247-47BC-98A9-E82115CE6474}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-salesolap-{78641C77-8247-47BC-98A9-E82115CE6474}localhost2;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
